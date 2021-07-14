@@ -1,3 +1,6 @@
+/*
+ * https://ciesie.com/post/tinycc_dynamic_compilation/
+ * */
 #include "libtcc.h"
 
 #include <stdint.h>
